@@ -1,4 +1,4 @@
-# Responsive Portfolio Template
+# Responsive Portfolio
 
 - This website uses HTML, CSS, & JavaScript
 - Contains CSS Animations
